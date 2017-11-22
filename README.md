@@ -9,9 +9,11 @@ If you find a paper about recommender system techniques or review which is not l
 
 
 ## Table of Contents
-* [Books](#Books)
-* [Review Papers](#Review-Papers)
-* [Systems](#Systems)
+* [Books / Slides](#books--slides)
+* [Review Papers](#review-papers)
+* [Recommendation Algorithm](#recommendation-algorithm)
+  * [Deep Learning](#deep-learning)
+* [Systems](#systems)
  
  
 ## Books / Slides
@@ -23,8 +25,13 @@ If you find a paper about recommender system techniques or review which is not l
 * [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf) by Shuai Zhang, Lina Yao, Aixin Sun. Arxiv 2017.
 
 
+## Recommendation Algorithm
+### Deep Learning
+* [Deep Neural Networks for YouTube Recommendations](http://delivery.acm.org/10.1145/2960000/2959190/p191-covington.pdf) by Paul Covington, Jay Adams, Emre Sargin. RecSys 2016.
+
 ## Systems
 * [The Netflix Recommender System: Algorithms, Business Value,
 and Innovation](http://delivery.acm.org/10.1145/2850000/2843948/a13-gomez-uribe.pdf) by CARLOS A. GOMEZ-URIBE and NEIL HUNT. ACM Transactions on Management Information Systems 2015.
-
+* [The YouTube Video Recommendation System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.9301) by 	
+James Davidson, Benjamin Liebald, Junning Liu, Palash Nandy, Taylor Van Vleet, Ullas Gargi, Sujoy Gupta, Yu He, Mike Lambert, Blake Livingston, Dasarathi Sampath. RecSys 2010.
 
